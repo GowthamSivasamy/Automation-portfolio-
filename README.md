@@ -6,6 +6,12 @@ Here I showcase my **panel wiring, PLC programs, and wiring diagrams** from diff
 ---
 
 ## 🔌 Panel 1
+- **Type:** Motor Control Panel  
+- **Features:** Auto/Manual Mode, Safety Interlocks  
+
+### 📷 Photos
+![Panel 1 Front](Panel_1/Photos/panel1_front.jpg)
+![Panel 1 Inside](Panel_1/Photos/panel1_inside.jpg)
 
 
 ## 📞 Contact
